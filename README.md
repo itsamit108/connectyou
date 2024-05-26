@@ -1,6 +1,6 @@
-## ConnectYou - Networking and Conversations App
+## ConnectYou - Conversations App
 
-ConnectYou is a user-friendly web application that enables seamless communication and networking among users. With ConnectYou, you can engage in chat conversations and interact with other users conveniently. Whether you're looking to connect with friends, colleagues, or like-minded individuals, ConnectYou provides a platform to foster meaningful connections.
+ConnectYou is a user-friendly web application that enables seamless communication among users. With ConnectYou, you can engage in chat conversations and interact with other users conveniently. Whether you're looking to connect with friends, colleagues, or like-minded individuals, ConnectYou provides a platform to foster meaningful connections.
 
 ## Tech Stack
 
@@ -73,7 +73,3 @@ We welcome contributions from the community! If you'd like to contribute to Conn
 ## License
 
 This project is licensed under the MIT License - refer to the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For queries or feedback, reach out to us at contact@example.com.
